@@ -1,6 +1,7 @@
 # JapaneseBeauty
 
 This is the repo for Instagram data from 20 beauty-related companies active in Japan.
+
 The Instagram accounts are:
 
 | Company name  | Instagram handle    |
@@ -27,3 +28,15 @@ The Instagram accounts are:
 | TBC Aesthetic | tbc_aesthetic       |
 
 The data is from between January 2016 and May 2021. The data is formatted as one json dataframe.
+
+To cite this data use:
+
+```
+@InProceedings{ohman2021japan,
+  author        = {{\"O}hman, Emily and Amy Grace Metcalfe},
+  title         = {{Japanese Beauty Marketing on Social Media: Critical Discourse Analysis Meets NLP}},
+  booktitle     = {NLP4DH @ ICON'2021},
+  year          = {2021},
+  publisher     = {ACL}
+}
+```
