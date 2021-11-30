@@ -27,7 +27,9 @@ The Instagram accounts are:
 | Shiseido      | shiseido_japan      |
 | TBC Aesthetic | tbc_aesthetic       |
 
-The data is from between January 2016 and May 2021. The data is formatted as one json dataframe.
+The data is from between January 2016 and May 2021. 
+
+The data is formatted as one json dataframe that has been split into multiple files using the split command (due to file size constraints on GitHub). The files can be easily merged again by typing ```cat x?? > beauty_json.csv``` in terminal.
 
 To cite this data use:
 
